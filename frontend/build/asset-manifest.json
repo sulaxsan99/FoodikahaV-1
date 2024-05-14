@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dda65948.css",
+    "main.js": "/static/js/main.0f0a3b15.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Foodikha (1).jpg": "/static/media/Foodikha (1).e21a83498a59237ce191.jpg",
+    "static/media/3.jpg": "/static/media/3.1715bc91c44cf98baa77.jpg",
+    "static/media/Foodikha_event.png": "/static/media/Foodikha_event.814f03c801f69e6272dd.png",
+    "static/media/banner_bg.jpg": "/static/media/banner_bg.8e859a9f1924a0c6120a.jpg",
+    "static/media/360_f_651167631_vnj4dfvps1yxytmzrgrvbsxujmzgstjw (1).jpg": "/static/media/360_f_651167631_vnj4dfvps1yxytmzrgrvbsxujmzgstjw (1).841146f9b2b864d208e7.jpg",
+    "index.html": "/index.html",
+    "main.dda65948.css.map": "/static/css/main.dda65948.css.map",
+    "main.0f0a3b15.js.map": "/static/js/main.0f0a3b15.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda65948.css",
+    "static/js/main.0f0a3b15.js"
+  ]
+}
